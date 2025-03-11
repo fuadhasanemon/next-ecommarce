@@ -7,3 +7,11 @@ export const headerData = [
 	{ title: "Featured", href: "/featured" },
 	{ title: "Gift", href: "/gift" },
 ];
+
+export const productData = [
+	{ title: "Tshirt", href: "tshirt" },
+	{ title: "Jacket", href: "jacket" },
+	{ title: "Pants", href: "pants" },
+	{ title: "Hoodies", href: "hoodies" },
+	{ title: "Short", href: "short" },
+];
